@@ -1,0 +1,2 @@
+Comment: sync missing in both sensors
+Note: 90
